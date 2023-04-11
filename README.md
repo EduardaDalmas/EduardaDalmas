@@ -1,7 +1,5 @@
 ### Olá, eu sou a Eduarda 👋
 
-<!--
-**EduardaDalmas/EduardaDalmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sobre mim:
 
@@ -12,7 +10,7 @@ Sobre mim:
 - 💬 Debates inteligentes são sempre bem-vindos
 - 📫 Me contate através do e-mail du.dalmas@hotmail.com
 - 😄 ela/dela
--->
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
