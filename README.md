@@ -1,8 +1,6 @@
 ### Olá, eu sou a Eduarda 👋
 
 
-Sobre mim:
-
 - 🔭 Trabalho com desenvolvimento Front-End Angular e Vue.js (Quasar Framework).
 - 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate)
 - ⚡ Já trabalhei com node.js | Cypress | Mocha/Chai | CD/CI Pipelines 
