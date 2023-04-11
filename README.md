@@ -3,8 +3,8 @@
 
 
 - 🔭 Trabalho com desenvolvimento Front-End Angular e Vue.js (Quasar Framework).
-- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate)
-- ⚡ Já trabalhei com node.js | Cypress | Mocha/Chai | CD/CI Pipelines 
+- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate) | MySQL
+- ⚡ Já trabalhei com Node.js | Cypress | Mocha/Chai | CD/CI Pipelines | Projetos no Figma
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento de telas
 - 💬 Debates inteligentes são sempre bem-vindos
 - 📫 Me contate através do e-mail du.dalmas@hotmail.com
