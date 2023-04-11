@@ -4,7 +4,7 @@
 Sobre mim:
 
 - 🔭 Trabalho com desenvolvimento Front-End Angular e Vue.js (Quasar Framework).
-- 🌱 Estou aprendendo Nuxt.js | Python | Java (Maven e Hibernate)
+- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate)
 - ⚡ Já trabalhei com node.js | Cypress | Mocha/Chai | CD/CI Pipelines 
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento de telas
 - 💬 Debates inteligentes são sempre bem-vindos
@@ -12,7 +12,7 @@ Sobre mim:
 - 😄 ela/dela
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,figma,git,mysql,nuxtjs,nodejs,ts)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,figma,git,mysql,nuxtjs,nodejs,ts,vue,py)](https://skills.thijs.gg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
