@@ -6,9 +6,8 @@
 - 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate) | MySQL
 - ⚡ Já trabalhei com Node.js | Cypress | Mocha/Chai | CD/CI Pipelines | Projetos no Figma
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento de telas
-- 💬 Debates inteligentes são sempre bem-vindos
+- 💬 Trocar experiências sempre é uma boa ideia
 - 📫 Me contate através do e-mail du.dalmas@hotmail.com
-- 😄 ela/dela
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,figma,git,mysql,nuxtjs,nodejs,ts,vue,py)](https://skills.thijs.gg)
