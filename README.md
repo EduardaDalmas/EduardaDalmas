@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com desenvolvimento Front-End Angular e Vue.js (Quasar).
-- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven e Hibernate) | MySQL
+- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven, Hibernate e Spring) | MySQL
 - ⚡ Já trabalhei com Node.js | Cypress | Mocha/Chai | CD/CI Pipelines | Projetos no Figma
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento de telas
 - 💬 Trocar experiências sempre é uma boa ideia
