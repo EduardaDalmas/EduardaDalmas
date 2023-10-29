@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com desenvolvimento web.
-- 🌱 Estou me desenvolvendo em Nuxt.js | Python | Java (Maven, Hibernate e Spring) | Python | Selenium
+- 🌱 Estou me desenvolvendo em Nuxt.js | Java (Maven, Hibernate e Spring) | Python | Selenium
 - ⚡ Já trabalhei com Node.js | Cypress | Vue | Quasar | Angular | Mocha/Chai | CD/CI Pipelines | SQL | Projetos no Figma
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento de telas web front-end
 - 💬 Trocar experiências sempre é uma boa ideia
