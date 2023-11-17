@@ -10,7 +10,7 @@
 - 📫 Me contate através do e-mail du.dalmas@hotmail.com
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,figma,git,mysql,nuxtjs,nodejs,ts,vue,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,figma,git,mysql,nuxtjs,nodejs,ts,vue,py,php,laravel)](https://skills.thijs.gg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardadalmas&show_icons=true&theme=transparent)
 
@@ -22,6 +22,7 @@
   <a href="https://stackoverflow.com/users/21252144/eduarda-dalmas" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/eduardadalmas" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
    <a href="https://eduarda-dalmas.web.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+      <a href="https://eduarda-dalmas.web.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  
  
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
