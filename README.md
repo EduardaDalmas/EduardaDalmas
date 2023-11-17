@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalho com desenvolvimento web desde 2020.
+- 🔭 Trabalho com desenvolvimento web desde 2020
 - 🌱 Estou me desenvolvendo em PHP | Laravel | Blade | Artisan
 - ⚡ Já trabalhei com Node.js | Cypress | Vue.js | Quasar | Angular | Mocha/Chai | CD/CI | SQL | Nuxt.js | Python | Selenium | Java (Maven, Hibernate e Spring) | Figma
 - 👯 Gosto muito de utilizar conceitos de UX/UI Design no desenvolvimento web front-end
